@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning code and explore more about codings
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on software develpoing
-- 📫 How to reach me @vishalrc13@gmail.com
+- 📫 Reach me @vishalrc13@gmail.com
 
 <!---
 EnochVishal/EnochVishal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
