@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnochVishal
 - 👀 I’m interested in learning code and explore more about codings
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on software develpoing
+- 💞️ I’m looking to collaborate on data analytics
 - 📫 Reach me @vishalrc13@gmail.com
 
 <!---
