@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnochVishal
+- 👋 Hi, I’m @Vishal R C
 - 👀 I’m interested in learning code and explore more about codings
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analytics
